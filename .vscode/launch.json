@@ -1,0 +1,14 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open universo.html",
+            "file": "c:\\Users\\n.sistemas\\Documents\\GitHub\\html5\\Ativ13-04\\universo.html"
+        }
+    ]
+}
